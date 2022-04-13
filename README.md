@@ -8,6 +8,7 @@ Para instalar o 'pytesseract' no Windows, segue o passo a passo abaixo:
 Depois clique em um dos dois que seja a configuração do seu computador:
 
 tesseract-ocr-w32-setup-v5.0.1.20220118.exe (32 bit)
+
 tesseract-ocr-w64-setup-v5.0.1.20220118.exe (64 bit)
 
 02 - Você irá clicar em 'Next' até aparecer a janela com o endereço onde o arquivo será instalado, e então copie o endereço e cole no bloco de notas;
