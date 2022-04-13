@@ -11,5 +11,6 @@ tesseract-ocr-w64-setup-v5.0.1.20220118.exe (64 bit)
 
 03 - Depois instale o Pacote 'pip install pytesseract';
 
-04 - Após a instalação, você irá copiar e colar no seu CODE o seguinte código =
+04 - Após a instalação, você irá copiar e colar no seu CODE o seguinte código
+
 (pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe)
